@@ -1,0 +1,19 @@
+.red_class{
+    color:red
+}
+.highlight_class{
+    background-color:palegreen
+}
+.highlight_robot_class{
+    background-color:gold
+}
+
+.red_class{
+    color:rgb(237,107,70)
+}
+.highlight_class{
+    background-color:rgb(199,233,167)
+}
+.highlight_robot_class{
+    background-color:rgb(255,254,169)
+}
